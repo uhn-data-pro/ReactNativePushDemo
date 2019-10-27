@@ -9,4 +9,4 @@ Then, run the app in the root folder with:
 expo start
 ```
 Scan the QR Code after downloading the Expo app in the Play/App Store.
-# ReactNativePush-Native
+
