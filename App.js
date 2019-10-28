@@ -72,7 +72,7 @@ export default class App extends React.Component {
   render() {
     return (
         <View style={styles.container}>
-          <Text style={styles.title}>Expo Sample Notifications App</Text>
+          <Text style={styles.title}>[EXPO] Push Notifications Demo</Text>
           <Text style={styles.text}>Title</Text>
           <TextInput
               style={styles.input}
